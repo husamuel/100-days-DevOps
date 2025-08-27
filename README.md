@@ -7,7 +7,7 @@ This repository contains my **100-day DevOps learning journey**, with daily hand
 
 ## 📅 Progress Overview
 
-### ✅ Days 1-10: Linux Fundamentals & User Management 
+### [✅ Days 1-10: Linux Fundamentals & User Management ](https://github.com/husamuel/100-days-DevOps/tree/main/Day_1-10)
 - Linux user setup, temporary users, SSH security
 - Script permissions, SELinux configuration
 - Cron jobs and bash scripting
